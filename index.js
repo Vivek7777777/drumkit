@@ -47,6 +47,7 @@ function makeSound(sound){
                 audio1.play();
                 break;
             case "l":
+                var audio1 = new Audio("sounds/kick-bass.mp3");
                 audio1.play();
                 break;
             
